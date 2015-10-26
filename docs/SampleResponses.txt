@@ -1,0 +1,20 @@
+1. Log In
+<game>
+<status>success</status>
+<player firstName="Stuart" lastName="Thiel" email="sthiel@encs.concordia.ca" id="1" version="1">
+ <user username="sthiel" id="1"/>
+</player>
+</game>
+2. Log Out
+<game>
+<status>success</status>
+</game>
+3. Register User
+<game>
+<status>success</status>
+<player firstName="Stuart" lastName="Thiel" email="sthiel@encs.concordia.ca" id="1" version="1">
+ <user username="sthiel" id="1" version="1">
+</player>
+</game>
+
+oh snap... you need to determine all the rest from the test suite! Still, the above is decent guidance
